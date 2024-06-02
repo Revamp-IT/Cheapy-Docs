@@ -14,6 +14,8 @@
 
 .. code-block:: PHP
 
+   <?php
+
    // Request/Deal/CreateDealRequest.php
 
    class CreateDealRequest extends RequestTemplate
