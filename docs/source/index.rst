@@ -28,4 +28,4 @@ Cheapy - PHP Framework
 
 .. toctree::
    
-   architecture
+   base/architecture
