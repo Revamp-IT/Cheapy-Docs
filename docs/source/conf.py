@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Cheapy'
-copyright = '2024, Graziella'
+project = 'Cheapy - PHP Framework'
+copyright = '2024, Revamp IT'
 author = 'Revamp IT'
 
 release = '1.1.1'
