@@ -1,0 +1,7 @@
+Основы 
+======
+
+.. toctree::
+
+   architecture
+   lifecycle
