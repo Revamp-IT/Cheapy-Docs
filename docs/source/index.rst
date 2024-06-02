@@ -27,6 +27,5 @@ Cheapy - PHP Framework
 
 
 .. toctree::
-   :maxdepth: 2
-
-   Архитектура
+   
+   architecture
