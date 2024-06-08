@@ -10,7 +10,7 @@ Composer
 
 Создать проект можно также, через :code:`Composer`:
 
-.. code-block: console
+.. code-block:: console
 
     composer create-project revampit/framework
 
