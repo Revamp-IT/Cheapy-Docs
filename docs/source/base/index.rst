@@ -3,9 +3,9 @@
 
 .. toctree::
 
-   architecture
-   lifecycle
    creating
+   architecture
+   convention
+   lifecycle
    routing
    requesttemplate
-   convention
