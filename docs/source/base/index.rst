@@ -1,5 +1,6 @@
 Основы 
 ======
+Данная глава предназначена для того, что на поверхностном уровне понять, как строить API сервисы с помощью **Cheapy**
 
 .. toctree::
 
@@ -10,3 +11,6 @@
    routing
    requesttemplate
    responsetemplate
+   controller
+   datamap
+   end
