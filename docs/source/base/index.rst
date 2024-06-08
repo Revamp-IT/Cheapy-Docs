@@ -9,3 +9,4 @@
    lifecycle
    routing
    requesttemplate
+   responsetemplate
