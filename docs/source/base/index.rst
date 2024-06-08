@@ -5,4 +5,7 @@
 
    architecture
    lifecycle
+   creating
    routing
+   requesttemplate
+   convention
